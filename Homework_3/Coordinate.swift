@@ -10,8 +10,8 @@ import UIKit
 
 class Coordinate: NSObject {
     
-    var xcoordinate = CGFloat?()
-    var ycoordinate = CGFloat?()
+    var xcoordinate: CGFloat?
+    var ycoordinate: CGFloat?
     
 
 }
